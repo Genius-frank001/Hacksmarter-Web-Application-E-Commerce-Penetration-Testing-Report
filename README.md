@@ -1,6 +1,6 @@
 # HackSmarter Web Application — Penetration Test Report
 
-> **Training/lab engagement — HackSmarter Labs environment (`hacksmarter.hsm`).**
+> **Pentest engagement — HackSmarter Labs environment (`hacksmarter.hsm`).**
 > All testing was conducted against a deliberately vulnerable training application within an isolated lab environment.
 
 ---
